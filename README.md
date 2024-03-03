@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer Student</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vish-mv" alt="vish-mv" /></a> </p>
+<p align="left"> </p>
 
 - 🔭 I’m currently Studying In **University Of Westminster (IIT))**
 
